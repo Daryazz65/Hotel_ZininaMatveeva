@@ -8,5 +8,6 @@ namespace Hotel_ZininaMatveeva.AppData
 {
     internal class FeedBack
     {
+        //private static Hotel_ZininaMatveeva context = App.GetContext();
     }
 }
