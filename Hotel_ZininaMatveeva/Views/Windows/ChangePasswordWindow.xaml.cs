@@ -23,5 +23,10 @@ namespace Hotel_ZininaMatveeva.Views.Windows
         {
             InitializeComponent();
         }
+
+        private void ChangePasswordBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
